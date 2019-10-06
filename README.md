@@ -6,3 +6,4 @@ We have cleaned the downloaded data using file handling in java.
 All the other analysis is done in python using matplotlib library as the major library.
 The program currently shows the analysis of a particular team, particular player, team vs team info.
 The work left as of now is adding the bowler's analysis in program as well as adding gui for a better user interaction.
+The current files contains a raw csv file, the corresponding clean csv file, a java file for cleaning and a python file for analysis.
